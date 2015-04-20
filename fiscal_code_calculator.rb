@@ -91,7 +91,7 @@ if m == "may"
 	fiscal_code += "e"
 end
 
-if m == "jule"
+if m == "june"
 	fiscal_code += "h"
 end
 
