@@ -71,51 +71,51 @@ puts "Be patient\nWhat is your month of birth?"
 month_of_birth = gets.chomp
 m = month_of_birth.downcase
 
-if m == "gennaio"
+if m == "january"
 	fiscal_code += "a"
 end
 
-if m == "febbraio"
+if m == "february"
 	fiscal_code += "b"
 end
 
-if m == "marzo"
+if m == "march"
 	fiscal_code += "c"
 end
 
-if m == "aprile"
+if m == "april"
 	fiscal_code += "d"
 end
 
-if m == "maggio"
+if m == "may"
 	fiscal_code += "e"
 end
 
-if m == "giugno"
+if m == "jule"
 	fiscal_code += "h"
 end
 
-if m == "luglio"
+if m == "july"
 	fiscal_code += "l"
 end
 
-if m == "agosto"
+if m == "august"
 	fiscal_code += "m"
 end
 
-if m == "settembre"
+if m == "september"
 	fiscal_code += "p"
 end
 
-if m == "ottobre"
+if m == "ottober"
 	fiscal_code += "r"
 end
 
-if m == "novembre"
+if m == "november"
 	fiscal_code += "s"
 end
 
-if m == "dicembre"
+if m == "december"
 	fiscal_code += "t"
 end
 
