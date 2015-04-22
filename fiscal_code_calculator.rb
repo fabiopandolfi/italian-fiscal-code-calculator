@@ -1,4 +1,4 @@
-#!<your ruby path>
+#!/your/ruby/path
 
 puts "I am an italian fiscal code calculator\nWhat is your last name?"
 
